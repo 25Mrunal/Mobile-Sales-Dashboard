@@ -25,13 +25,6 @@ To analyze and visualize sales data through a well-structured, interactive dashb
 - Star Schema modeling
   
 
-## 📂 Dataset
-
-I used a sample sales dataset which includes fields like order date, region, sales, and profit.  
-You can find the base data here:  
-[🔗 Download Dataset]([https://github.com/SatishDhawale/PowerBIPractice](https://github.com/25Mrunal/Mobile-Sales-Dashboard/blob/main/Mobile%20Sales%20Data.xlsx))
-
-
 ## 🎯 Learning Outcomes
 
 - Practiced hands-on **DAX time intelligence** functions
